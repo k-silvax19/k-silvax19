@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Olá, eu sou o Kauan Silva 👋
 
 Desenvolvedor Full Stack.
