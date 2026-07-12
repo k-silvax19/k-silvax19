@@ -13,7 +13,7 @@ Desenvolvedor apaixonado por tecnologia, focado em construir aplicações web ro
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-silva-711aa03a6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k-silvax19)
 
 </div>
@@ -22,7 +22,7 @@ Desenvolvedor apaixonado por tecnologia, focado em construir aplicações web ro
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de desenvolvimento na **Academia do Programador**
+- 🎓 Estudante de desenvolvimento
 - 💻 Focado em desenvolvimento **Full Stack** com **.NET e ASP.NET MVC**
 - 🗄️ Experiência com **Entity Framework Core** e **SQL Server**
 - 📐 Apaixonado por boas práticas, arquitetura em camadas e código limpo
